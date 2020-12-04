@@ -442,7 +442,7 @@ var controller = (function(budgetCtrl, uiCtrl){
             type = splitID[0];
             ID = parseInt(splitID[1]);
 
-            // 1. Delete the item from the data structure
+            // 1. Delete item from the data structure
             budgetCtrl.deleteItem(type, ID);
 
             // 2. Delete the item from the UI
