@@ -475,6 +475,7 @@ var controller = (function(budgetCtrl, uiCtrl){
 })(budgetController, uiController);
 
 
+// Initialise controller
 controller.init();
 
 
