@@ -476,6 +476,7 @@ var controller = (function(budgetCtrl, uiCtrl){
 
 
 // Initialise controller
+
 controller.init();
 
 
